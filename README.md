@@ -21,15 +21,22 @@ The decompression password is _Cors-add_.  We provide the datasets with horizont
 
 • If you need to use our dataset to make research, please cite our essay (Complex Optical Remote Sensing Aircraft Detection Dataset and Benchmark) **(The essay is acceped and the link is below)**.
 ~~~
-@ARTICLE{10144379,
+@article{shi2023complex,
+  title={Complex optical remote-sensing aircraft detection dataset and benchmark},
   author={Shi, Tianjun and Gong, Jinnan and Jiang, Shikai and Zhi, Xiyang and Bao, Guangzhen and Sun, Yu and Zhang, Wei},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Complex Optical Remote-Sensing Aircraft Detection Dataset and Benchmark}, 
-  year={2023},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
   volume={61},
-  number={},
-  pages={1-9},
-  doi={10.1109/TGRS.2023.3283137}}
+  pages={1--9},
+  year={2023},
+  publisher={IEEE}}
+@article{shi2025progressive,
+  title={Progressive class-aware instance enhancement for aircraft detection in remote sensing imagery},
+  author={Shi, Tianjun and Gong, Jinnan and Hu, Jianming and Sun, Yu and Bao, Guangzhen and Zhang, Pengfei and Wang, Junjie and Zhi, Xiyang and Zhang, Wei},
+  journal={Pattern Recognition},
+  volume={164},
+  pages={111503},
+  year={2025},
+  publisher={Elsevier}}
 ~~~
 
 ## Contact
