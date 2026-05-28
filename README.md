@@ -83,7 +83,7 @@ CORS-ADD is challenging because it contains multi-source imagery, complex airpor
 
 CORS-ADD is constructed from Google Earth and multiple satellite sensors. Different imaging platforms introduce different spatial resolutions, grayscale distributions, texture characteristics, imaging noise, and degradation patterns, making the dataset more suitable for evaluating model robustness.
 
-The original large-scale remote-sensing images are manually annotated and then cropped into 640 × 640 image blocks. To reduce incomplete aircraft targets near patch boundaries, the large images are cropped with an overlap ratio of **0.25**. Only patches containing aircraft targets are retained, and the annotations are transformed from the original large-scale image coordinates to the cropped patch coordinates.
+The original large-scale remote-sensing images are manually annotated and then cropped into 640 × 640 image blocks. To reduce incomplete aircraft targets near patch boundaries, the large images are cropped with an overlap ratio of 0.25. Only patches containing aircraft targets are retained, and the annotations are transformed from the original large-scale image coordinates to the cropped patch coordinates.
 
 ---
 
@@ -202,5 +202,6 @@ If you use CORS-ADD in your research, please cite:
 For questions or feedback, please contact:
 
 **Tianjun Shi**
+
 Research Center for Space Optical Engineering, Harbin Institute of Technology
 Email: [shitianjun@stu.hit.edu.cn](mailto:shitianjun@stu.hit.edu.cn)
