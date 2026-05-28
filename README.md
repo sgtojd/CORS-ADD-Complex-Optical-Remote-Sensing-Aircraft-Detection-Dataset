@@ -5,7 +5,7 @@
 Different from many aircraft datasets collected from a single platform or typical airport scenes, CORS-ADD integrates imagery from **Google Earth and multiple satellite sensors**, including WorldView-2, WorldView-3, Pleiades, Jilin-1, and IKONOS. It covers not only common apron and runway scenes, but also aircraft carriers, ocean and land scenes with flying aircraft, cloud interference, low dynamic range, and degraded imaging conditions.
 
 <p align="center">
-  <img src="assets/cors_add_preview.png" width="75%">
+  <img src="assets/cors_add_preview.png" width="95%">
 </p>
 
 <p align="center">
